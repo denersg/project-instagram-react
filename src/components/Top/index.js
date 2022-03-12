@@ -1,12 +1,34 @@
 import "./style.css";
-// import { IoLogoInstagram } from "react-icons/io5";
+import LogoName from "../../assets/logo.png";
 
 function Home(){
     return(
         <div className="home">
-            {/* <IoLogoInstagram className="insta-logo" /> */}
             <ion-icon name="logo-instagram"></ion-icon>
+            <div className="vertical-line-home"></div>
+            <div className="logo-instagram-name">
+                <img src={LogoName} alt="logo" />
+            </div>
         </div>
+    );
+}
+
+function Search(){
+    return(
+        <div className="search">
+            <input type="text" placeholder="Pesquisar"/>
+        </div>
+    );
+}
+
+function TopMenu(){
+    return(
+        <nav className="top-menu">
+            <ion-icon name="paper-plane-outline"></ion-icon>
+            <ion-icon class="compass" name="compass-outline"></ion-icon>
+            <ion-icon class="heart" name="heart-outline"></ion-icon>
+            <ion-icon class="person" name="person-outline"></ion-icon>
+        </nav>
     );
 }
 
@@ -14,9 +36,11 @@ export default function Top(){
     return(
         <div>
             <header className="header">
-                <Home />
-                {/* <Search />
-                <TopMenu /> */}
+                <div className="container">
+                    <Home />
+                    <Search />
+                    <TopMenu />
+                </div>
             </header>
         </div>
     );

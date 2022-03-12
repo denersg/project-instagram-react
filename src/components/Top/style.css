@@ -15,7 +15,70 @@
     border-bottom: 1px solid var(--color-db);
 }
 
-.insta-logo{
-    width: 20px;
-    height: 20px;
+.container{
+    width: 935px;
+    display: flex;
+    justify-content: space-between;
 }
+
+/* ----- Botão home ----- */
+.home .vertical-line-home{
+    height: 24px;
+    width: 1px;
+    background-color: var(--color-db);
+}
+
+.home .logo-instagram-name{
+    /* background-color: chartreuse; */
+    height: 22px;
+}
+
+/* ----- Caixa de busca ----- */
+.search{
+    display: flex;
+    align-items: center;
+}
+
+.search input{
+    height: 26px;
+
+    border: 1px solid var(--color-db);
+    border-radius: 3px;
+
+    background-color: #fafafa;
+}
+
+.search input::placeholder{
+    text-align: center;
+}
+
+.search input:focus{
+    outline: 0;
+}
+
+/* ----- Configurações recorrentes ----- */
+.home, .top-menu{
+    width: 140px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    color: #000000;
+    font-size: 20px;
+}
+
+.top-menu ion-icon, .home ion-icon, .home img{
+    cursor: pointer;
+}
+
+/* ----- Verificacao p/ saber o q/ é cada coisa ----- */
+/* .home{
+    background-color: magenta;
+}
+.search{
+    background-color: tomato;
+}
+.top-menu{
+    background-color: orange;
+} */

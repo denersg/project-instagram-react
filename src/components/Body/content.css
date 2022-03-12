@@ -1,5 +1,5 @@
 .content{
-    background-color: aqua;
+    /* background-color: aqua; */
     width: 935px;
     height: 900px;
 
@@ -12,6 +12,6 @@
 }
 
 .feed{
-    background-color: coral;
+    /* background-color: coral; */
     width: 614px;
 }

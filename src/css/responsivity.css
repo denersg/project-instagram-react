@@ -5,7 +5,25 @@
     }
 
     .header-container{
-        background-color: black;
         width: 95%;
+    }
+}
+
+@media(max-width: 614px){
+    .search, .compass, .heart, .person, .vertical-line-home, .scroll{
+        display: none;
+    }
+
+    .logo-instagram-name{
+        position: absolute;
+        left: 40%;
+    }
+
+    .top-menu{
+        width: 20px;
+    }
+
+    .feed, .post-photo img{
+        width: 100%;
     }
 }

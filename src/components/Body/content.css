@@ -1,0 +1,17 @@
+.content{
+    background-color: aqua;
+    width: 935px;
+    height: 900px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    margin: 0 auto;
+    margin-top: 88px;
+}
+
+.feed{
+    background-color: coral;
+    width: 614px;
+}

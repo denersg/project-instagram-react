@@ -15,7 +15,8 @@
     border-bottom: 1px solid var(--color-db);
 }
 
-.container{
+.header-container{
+    background-color: orange;
     width: 935px;
     display: flex;
     justify-content: space-between;

@@ -36,7 +36,7 @@ export default function Top(){
     return(
         <div>
             <header className="header">
-                <div className="container">
+                <div className="header-container">
                     <Home />
                     <Search />
                     <TopMenu />

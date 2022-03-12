@@ -1,0 +1,11 @@
+@media(max-width: 935px){
+    .content{
+        width: 100%;
+        justify-content: center;
+    }
+
+    .header-container{
+        background-color: black;
+        width: 95%;
+    }
+}

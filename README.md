@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/github/languages/count/denersg/project-instagram-react?style=for-the-badge">
   <img src="https://img.shields.io/github/last-commit/denersg/project-instagram-react?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/denersg/project-instagram-react?color=%23ffb300&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/denersg/project-instagram-react?style=for-the-badge">
   
 </div>
 

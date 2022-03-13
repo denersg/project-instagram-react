@@ -34,9 +34,9 @@ Layout disponível para versões de computador, tablet e celulares.
 ### 🤳 Mobile
 
 <div align="center">
-  <img width="330px" src="https://user-images.githubusercontent.com/39387376/158062653-bd34ce66-cf06-44e3-acfd-00db26e485ee.png" >
-  <img width="330px" src="https://user-images.githubusercontent.com/39387376/158062670-3eb050eb-3b2d-438b-ab04-ff26d4c4d09f.png" >
-  <img width="332px" src="https://user-images.githubusercontent.com/39387376/158062689-a737d728-5d56-4e38-a8e7-04e1a6610dc6.png" >
+  <img width="250px" src="https://user-images.githubusercontent.com/39387376/158062653-bd34ce66-cf06-44e3-acfd-00db26e485ee.png" >
+  <img width="250px" src="https://user-images.githubusercontent.com/39387376/158062670-3eb050eb-3b2d-438b-ab04-ff26d4c4d09f.png" >
+  <img width="250px" src="https://user-images.githubusercontent.com/39387376/158062689-a737d728-5d56-4e38-a8e7-04e1a6610dc6.png" >
 </div>
 
 
@@ -49,8 +49,8 @@ Layout disponível para versões de computador, tablet e celulares.
 ### 💻 Desktop & 📱 Tablet
 
 <div align="center">
-  <img width="600px" src="https://user-images.githubusercontent.com/39387376/158062478-f2f544c4-f931-4bc7-bc08-bc5410980b2e.png" >
-  <img width="400px" src="https://user-images.githubusercontent.com/39387376/158062504-ac5e6ad8-c592-4f51-83f8-25399b86fbaa.png" >
+  <img width="500px" src="https://user-images.githubusercontent.com/39387376/158062478-f2f544c4-f931-4bc7-bc08-bc5410980b2e.png" >
+  <img width="300px" src="https://user-images.githubusercontent.com/39387376/158062504-ac5e6ad8-c592-4f51-83f8-25399b86fbaa.png" >
 </div>
 
 ## 📝 Licença

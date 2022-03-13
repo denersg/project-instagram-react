@@ -138,10 +138,25 @@ function Feed(){
     );
 }
 
+function FixedbarMobile(){
+    return(
+        <footer className="fixedbar-mobile">
+            <div className="content-fixedbar">
+            <ion-icon name="home"></ion-icon>
+                <ion-icon name="search-outline"></ion-icon>
+                <ion-icon name="add-circle-outline"></ion-icon>
+                <ion-icon class="heart-mobile" name="heart-outline"></ion-icon>
+                <ion-icon class="person-mobile" name="person-outline"></ion-icon>
+            </div>
+        </footer>
+    );
+}
+
 function Content(){
     return(
         <div className="content">
             <Feed />
+            <FixedbarMobile />
         </div>
     );
 }

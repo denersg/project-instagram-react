@@ -1,5 +1,4 @@
 .header{
-    /* background-color: aquamarine; */
     width: 100%;
     height: 54px;
 
@@ -11,12 +10,11 @@
     top: 0;
     z-index: 1;
 
-    background-color: #fff;
     border-bottom: 1px solid var(--color-db);
+    background-color: #fff;
 }
 
 .header-container{
-    /* background-color: orange; */
     width: 935px;
     display: flex;
     justify-content: space-between;
@@ -30,7 +28,6 @@
 }
 
 .home .logo-instagram-name{
-    /* background-color: chartreuse; */
     height: 22px;
 }
 
@@ -72,14 +69,3 @@
 .top-menu ion-icon, .home ion-icon, .home img{
     cursor: pointer;
 }
-
-/* ----- Verificacao p/ saber o q/ é cada coisa ----- */
-/* .home{
-    background-color: magenta;
-}
-.search{
-    background-color: tomato;
-}
-.top-menu{
-    background-color: orange;
-} */

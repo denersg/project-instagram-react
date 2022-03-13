@@ -100,6 +100,14 @@ function Posts(){
             whoLikedImg: "./images/chibirdart.svg",
             whoLikedName: "chibirdart",
             likes: "85.323"
+        },
+        { 
+            img: "./images/stickman.gif", 
+            whoPostedImg: "./images/nathanwpylestrangeplanet.svg", 
+            title: "nathanwpylestrangeplanet", 
+            whoLikedImg: "./images/wawawicomics.svg",
+            whoLikedName: "wawawiwacomicsa",
+            likes: "88.493"
         }
     ];
 

@@ -4,8 +4,8 @@ import Body from "./components/Body";
 export default function App(){
     return(
         <div>
-            <Top />
-            <Body />
+            <Top/>
+            <Body/>
         </div>
     );
 }

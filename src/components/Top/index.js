@@ -1,5 +1,5 @@
-import "./style.css";
 import LogoName from "../../assets/logo.png";
+import "./style.css";
 
 function Home(){
     return(

@@ -26,6 +26,10 @@ O projeto foi feito com o propósito de emular o design da página do Instagram,
 - [x] Visualização da última curtida
 - [x] Resposividade
 
+## ⚙️ Deploy
+
+Você pode visualizar o projeto em: https://project-instagram-react-khaki.vercel.app/
+
 ## 🎨 Layout
 
 Layout disponível para versões de computador, tablet e celulares.
